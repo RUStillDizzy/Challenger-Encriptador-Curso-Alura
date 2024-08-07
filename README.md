@@ -30,17 +30,27 @@ A proposta do exercício é de que os alunos treinem suas habilidades a partir d
 
 
 Requisitos:
-- Deve funcionar apenas com letras minúsculas
-- Não devem ser utilizados letras com acentos nem caracteres especiais
-- Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.
+- ✔️ Deve funcionar apenas com letras minúsculas 
+- ✔️ Não devem ser utilizados letras com acentos nem caracteres especiais 
+- ✔️ Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original. 
 
 <br>
 <br>
 
 Extra
 ---
-- Um botão que copia o texto criptografado/descriptografado para a área de transferência, ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos. 
+- ✔️ Um botão que copia o texto criptografado/descriptografado para a área de transferência, ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos. 
+
+<br>
+<br>
+
+# RESULTADO:
+
+Por incentivo da equipe de instrutores, decidi por não copiar o modelo original fornecido pelo curso, e logo abaixo você pode visualizar o resultado do meu projeto.
+
+<br>
+<br>
 
 <p align="center" >
-     <img width="600" heigth="600" src="/assets/screencapture-127-0-0-1-5500-index-copy-html-2024-08-07-13_15_58">
+     <img width="600" heigth="600" src="Challenge Decodificador/assets/screencapture-127-0-0-1-5500-index-copy-html-2024-08-07-13_15_58.png">
 </p>
