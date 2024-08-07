@@ -54,3 +54,11 @@ Por incentivo da equipe de instrutores, decidi por não copiar o modelo original
 <p align="center" >
      <img width="600" heigth="600" src="Challenge Decodificador/assets/screencapture-127-0-0-1-5500-index-copy-html-2024-08-07-13_15_58.png">
 </p>
+<br>
+<br>
+# Insígnia de Conclusão do Desafio
+<br>
+<br>
+<p align="center" >
+     <img width="400" heigth="400" src="Challenge Decodificador/assets/Decodificador de texto.png">
+</p>
