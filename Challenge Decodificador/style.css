@@ -17,7 +17,7 @@
     }
     
     body {
-    background-image: url(assets/freepik_5_23_12_21_9.jpg);
+    background-image: url(./assets/freepik_5_23_12_21_9.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     }
@@ -40,7 +40,6 @@
     width: 400px;
     height: 350px;
     background-color: #176B87;
-    background-image: url(assets/icone\ code\ programas.gif);
     background-size: 100px;
     background-position: bottom;
     background-repeat: no-repeat;
@@ -129,9 +128,6 @@
     margin: 2em 2em;
     }
     
-    body {
-    background-image: radial-gradient(circle, #0b2632 80%, #737b86 50%);
-    }
     
     .text-area {
     width: 60vw;
